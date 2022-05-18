@@ -1,0 +1,145 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "R idle dance"
+		},
+		{
+			"offsets": [
+				33,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "R note down"
+		},
+		{
+			"offsets": [
+				0,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "R note left"
+		},
+		{
+			"offsets": [
+				-31,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "R note right"
+		},
+		{
+			"offsets": [
+				-32,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "R note up"
+		},
+		{
+			"offsets": [
+				-51,
+				-3
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12,
+				12
+			],
+			"fps": 24,
+			"anim": "angry",
+			"loop": false,
+			"name": "R angry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/R_Sprites",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "r",
+	"flip_x": false,
+	"healthbar_colors": [
+		198,
+		54,
+		71
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

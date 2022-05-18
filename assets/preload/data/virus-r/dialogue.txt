@@ -1,0 +1,3 @@
+r:normal:Ah, you're here. This is a separated dimension I created within this world. You know I want to have a battle with you too.
+r:normal:Take this as a chance for you to hear my true voice too... Oh, don't worry about your voice. I borrowed BF's voice from the files for this occassion.
+r:smile:Now, won't you sing with me? :)

@@ -1,0 +1,12 @@
+bf:afraid:Just, calm down! You're mistaking something alright?! We're not some random system or whatever you're talking about's pawn, we just got here by accident!
+r:sweat:Oh... Pardon me, let me check this world's code...
+r:sad:Oh dear I'm, I'm really sorry... I didn't expect my aura would cause this world errors.
+gf:normal:It's okay! Can we please know what's all happening at least?
+r:normal:I am... Actually a computer virus, trying escaping the system's search right now. But I swear will never harm people like you...!
+r:sad:The errors... They are caused by my virus aura, I didn't mean for it to happen... I don't want to cause troubles... I promise I will send you back... I...
+gf:worried:But dear, you look like you really do need some company right now. Is it really alright?
+bf:normal:Yeah! We're not in a hurry, just an unexpected dating point change isn't that bad. We can just chill here, and you can tell us whatever's on your mind.
+r:normal:Is that really okay...?
+bf:awesome:Of course! We're friends now, isn't that right?
+gf:happy:*nod nod
+r:smile:Thank you... Thank you so much!

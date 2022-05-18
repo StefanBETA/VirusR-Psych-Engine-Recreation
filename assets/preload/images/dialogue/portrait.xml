@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portrait.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Aceangry0000" x="0" y="0" width="1000" height="1000"/>
+	<SubTexture name="Acebunaifan0000" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="Acewuyu0000" x="2000" y="0" width="1000" height="1000"/>
+	<SubTexture name="Aceyouhe0000" x="3000" y="0" width="1000" height="1000"/>
+	<SubTexture name="Acezhengchang0000" x="4000" y="0" width="1000" height="1000"/>
+	<SubTexture name="BFawesome0000" x="5000" y="0" width="1000" height="1000"/>
+	<SubTexture name="BFhaipa0000" x="6000" y="0" width="1000" height="1000"/>
+	<SubTexture name="BFjingdao0000" x="7000" y="0" width="1000" height="1000"/>
+	<SubTexture name="BFsad0000" x="0" y="1000" width="1000" height="1000"/>
+	<SubTexture name="BFzhengchang0000" x="1000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="GFsmile0000" x="2000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="GFsmile20000" x="3000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="GFworry0000" x="4000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="GFwuyu0000" x="5000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="GFzhengchang0000" x="6000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="Rangry0000" x="7000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="Rliuhan0000" x="0" y="2000" width="1000" height="1000"/>
+	<SubTexture name="Rsad0000" x="1000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="Rsmile0000" x="2000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="Rzhengchang0000" x="3000" y="2000" width="1000" height="1000"/>
+</TextureAtlas>

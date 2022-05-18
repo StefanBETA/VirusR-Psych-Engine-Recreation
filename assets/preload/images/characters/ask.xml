@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ask.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AceIdle0000" x="0" y="0" width="550" height="1024"/>
+	<SubTexture name="AceIdle0001" x="550" y="0" width="550" height="1024"/>
+	<SubTexture name="AceIdle0002" x="1100" y="0" width="550" height="1024"/>
+	<SubTexture name="AceIdle0003" x="1650" y="0" width="550" height="1024"/>
+	<SubTexture name="AceIdle0004" x="2200" y="0" width="550" height="1024"/>
+	<SubTexture name="AceIdle0005" x="2750" y="0" width="550" height="1024"/>
+	<SubTexture name="AceIdle0006" x="3300" y="0" width="550" height="1024"/>
+	<SubTexture name="AceIdle0007" x="3850" y="0" width="550" height="1024"/>
+	<SubTexture name="AceIdle0008" x="4400" y="0" width="550" height="1024"/>
+	<SubTexture name="AceIdle0009" x="4950" y="0" width="550" height="1024"/>
+	<SubTexture name="AceIdle0010" x="5500" y="0" width="550" height="1024"/>
+	<SubTexture name="Acedown0000" x="6050" y="0" width="550" height="1024"/>
+	<SubTexture name="Acedown0001" x="6600" y="0" width="550" height="1024"/>
+	<SubTexture name="Acedown0002" x="7150" y="0" width="550" height="1024"/>
+	<SubTexture name="Acedown0003" x="0" y="1024" width="550" height="1024"/>
+	<SubTexture name="Acedown0004" x="550" y="1024" width="550" height="1024"/>
+	<SubTexture name="Acedown20000" x="1100" y="1024" width="1024" height="1024"/>
+	<SubTexture name="Acedown20001" x="2124" y="1024" width="1024" height="1024"/>
+	<SubTexture name="Acedown20002" x="3148" y="1024" width="1024" height="1024"/>
+	<SubTexture name="Acedown20003" x="4172" y="1024" width="1024" height="1024"/>
+	<SubTexture name="Aceleft0000" x="5196" y="1024" width="550" height="1024"/>
+	<SubTexture name="Aceleft0001" x="5746" y="1024" width="550" height="1024"/>
+	<SubTexture name="Aceleft0002" x="6296" y="1024" width="550" height="1024"/>
+	<SubTexture name="Aceleft0003" x="6846" y="1024" width="550" height="1024"/>
+	<SubTexture name="Aceleft0004" x="7396" y="1024" width="550" height="1024"/>
+	<SubTexture name="Aceleft20000" x="0" y="2048" width="1024" height="1024"/>
+	<SubTexture name="Aceleft20001" x="1024" y="2048" width="1024" height="1024"/>
+	<SubTexture name="Aceleft20002" x="2048" y="2048" width="1024" height="1024"/>
+	<SubTexture name="Aceleft20003" x="3072" y="2048" width="1024" height="1024"/>
+	<SubTexture name="Aceright0000" x="4096" y="2048" width="550" height="1024"/>
+	<SubTexture name="Aceright0001" x="4646" y="2048" width="550" height="1024"/>
+	<SubTexture name="Aceright0002" x="5196" y="2048" width="550" height="1024"/>
+	<SubTexture name="Aceright0003" x="5746" y="2048" width="550" height="1024"/>
+	<SubTexture name="Aceright0004" x="6296" y="2048" width="550" height="1024"/>
+	<SubTexture name="Aceright20000" x="6846" y="2048" width="1024" height="1024"/>
+	<SubTexture name="Aceright20001" x="0" y="3072" width="1024" height="1024"/>
+	<SubTexture name="Aceright20002" x="1024" y="3072" width="1024" height="1024"/>
+	<SubTexture name="Aceright20003" x="2048" y="3072" width="1024" height="1024"/>
+	<SubTexture name="Acesmile0000" x="3072" y="3072" width="550" height="1024"/>
+	<SubTexture name="Acesmile0001" x="3622" y="3072" width="550" height="1024"/>
+	<SubTexture name="Acesmile0002" x="4172" y="3072" width="550" height="1024"/>
+	<SubTexture name="Acesmile0003" x="4722" y="3072" width="550" height="1024"/>
+	<SubTexture name="Acesmile0004" x="5272" y="3072" width="550" height="1024"/>
+	<SubTexture name="Acesmile0005" x="5822" y="3072" width="550" height="1024"/>
+	<SubTexture name="Acesmile0006" x="6372" y="3072" width="550" height="1024"/>
+	<SubTexture name="Acesmile0007" x="6922" y="3072" width="550" height="1024"/>
+	<SubTexture name="Acesmile0008" x="7472" y="3072" width="550" height="1024"/>
+	<SubTexture name="Acesmile0009" x="0" y="4096" width="550" height="1024"/>
+	<SubTexture name="Acesmile0010" x="550" y="4096" width="550" height="1024"/>
+	<SubTexture name="Aceup0000" x="1100" y="4096" width="550" height="1024"/>
+	<SubTexture name="Aceup0001" x="1650" y="4096" width="550" height="1024"/>
+	<SubTexture name="Aceup0002" x="2200" y="4096" width="550" height="1024"/>
+	<SubTexture name="Aceup0003" x="2750" y="4096" width="550" height="1024"/>
+	<SubTexture name="Aceup0004" x="3300" y="4096" width="550" height="1024"/>
+	<SubTexture name="Aceup20000" x="3850" y="4096" width="1024" height="1024"/>
+	<SubTexture name="Aceup20001" x="4874" y="4096" width="1024" height="1024"/>
+	<SubTexture name="Aceup20002" x="5898" y="4096" width="1024" height="1024"/>
+	<SubTexture name="Aceup20003" x="6922" y="4096" width="1024" height="1024"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tiaowen.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tiaowen0000" x="0" y="0" width="1920" height="1280"/>
+	<SubTexture name="tiaowen0001" x="0" y="0" width="1920" height="1280"/>
+	<SubTexture name="tiaowen0002" x="1920" y="0" width="1920" height="1280"/>
+	<SubTexture name="tiaowen0003" x="1920" y="0" width="1920" height="1280"/>
+	<SubTexture name="tiaowen0004" x="0" y="1280" width="1920" height="1280"/>
+	<SubTexture name="tiaowen0005" x="0" y="1280" width="1920" height="1280"/>
+	<SubTexture name="tiaowen0006" x="1920" y="1280" width="1920" height="1280"/>
+	<SubTexture name="tiaowen0007" x="1920" y="1280" width="1920" height="1280"/>
+	<SubTexture name="tiaowen0008" x="0" y="2560" width="1920" height="1280"/>
+	<SubTexture name="tiaowen0009" x="0" y="2560" width="1920" height="1280"/>
+</TextureAtlas>

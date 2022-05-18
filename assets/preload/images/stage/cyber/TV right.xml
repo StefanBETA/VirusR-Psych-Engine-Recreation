@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TV right.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TV right0000" x="10" y="10" width="782" height="990"/>
+	<SubTexture name="TV right0001" x="802" y="10" width="782" height="990"/>
+	<SubTexture name="TV right0002" x="802" y="10" width="782" height="990"/>
+	<SubTexture name="TV right0003" x="10" y="1010" width="782" height="990"/>
+	<SubTexture name="TV right0004" x="10" y="1010" width="782" height="990"/>
+	<SubTexture name="TV right0005" x="802" y="1010" width="782" height="990"/>
+	<SubTexture name="TV right0006" x="802" y="1010" width="782" height="990"/>
+	<SubTexture name="TV right0007" x="802" y="1010" width="782" height="990"/>
+	<SubTexture name="TV right0008" x="802" y="1010" width="782" height="990"/>
+	<SubTexture name="TV right0009" x="802" y="1010" width="782" height="990"/>
+	<SubTexture name="TV right0010" x="802" y="1010" width="782" height="990"/>
+	<SubTexture name="TV right0011" x="802" y="1010" width="782" height="990"/>
+	<SubTexture name="TV right0012" x="802" y="1010" width="782" height="990"/>
+	<SubTexture name="TV right0013" x="802" y="1010" width="782" height="990"/>
+	<SubTexture name="TV right0014" x="802" y="1010" width="782" height="990"/>
+	<SubTexture name="TV right0015" x="10" y="1010" width="782" height="990"/>
+	<SubTexture name="TV right0016" x="10" y="1010" width="782" height="990"/>
+	<SubTexture name="TV right0017" x="802" y="10" width="782" height="990"/>
+	<SubTexture name="TV right0018" x="802" y="10" width="782" height="990"/>
+	<SubTexture name="TV right0019" x="10" y="10" width="782" height="990"/>
+</TextureAtlas>

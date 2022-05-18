@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rweek2.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rdown0000" x="0" y="0" width="1920" height="1280"/>
+	<SubTexture name="Rdown0001" x="0" y="0" width="1920" height="1280"/>
+	<SubTexture name="Rdown0002" x="1920" y="0" width="1920" height="1280"/>
+	<SubTexture name="Rdown0003" x="1920" y="0" width="1920" height="1280"/>
+	<SubTexture name="Rdown0004" x="3840" y="0" width="1920" height="1280"/>
+	<SubTexture name="Rdown0005" x="3840" y="0" width="1920" height="1280"/>
+	<SubTexture name="Ridle0000" x="5760" y="0" width="1920" height="1280"/>
+	<SubTexture name="Ridle0001" x="5760" y="0" width="1920" height="1280"/>
+	<SubTexture name="Ridle0002" x="0" y="1280" width="1920" height="1280"/>
+	<SubTexture name="Ridle0003" x="0" y="1280" width="1920" height="1280"/>
+	<SubTexture name="Ridle0004" x="1920" y="1280" width="1920" height="1280"/>
+	<SubTexture name="Ridle0005" x="1920" y="1280" width="1920" height="1280"/>
+	<SubTexture name="Ridle0006" x="3840" y="1280" width="1920" height="1280"/>
+	<SubTexture name="Ridle0007" x="3840" y="1280" width="1920" height="1280"/>
+	<SubTexture name="Ridle0008" x="5760" y="1280" width="1920" height="1280"/>
+	<SubTexture name="Ridle0009" x="5760" y="1280" width="1920" height="1280"/>
+	<SubTexture name="Rleft0000" x="0" y="2560" width="1920" height="1280"/>
+	<SubTexture name="Rleft0001" x="0" y="2560" width="1920" height="1280"/>
+	<SubTexture name="Rleft0002" x="1920" y="2560" width="1920" height="1280"/>
+	<SubTexture name="Rleft0003" x="1920" y="2560" width="1920" height="1280"/>
+	<SubTexture name="Rleft0004" x="3840" y="2560" width="1920" height="1280"/>
+	<SubTexture name="Rleft0005" x="3840" y="2560" width="1920" height="1280"/>
+	<SubTexture name="Rright0000" x="5760" y="2560" width="1920" height="1280"/>
+	<SubTexture name="Rright0001" x="5760" y="2560" width="1920" height="1280"/>
+	<SubTexture name="Rright0002" x="0" y="3840" width="1920" height="1280"/>
+	<SubTexture name="Rright0003" x="0" y="3840" width="1920" height="1280"/>
+	<SubTexture name="Rright0004" x="1920" y="3840" width="1920" height="1280"/>
+	<SubTexture name="Rright0005" x="1920" y="3840" width="1920" height="1280"/>
+	<SubTexture name="Rup0000" x="3840" y="3840" width="1920" height="1280"/>
+	<SubTexture name="Rup0001" x="3840" y="3840" width="1920" height="1280"/>
+	<SubTexture name="Rup0002" x="5760" y="3840" width="1920" height="1280"/>
+	<SubTexture name="Rup0003" x="5760" y="3840" width="1920" height="1280"/>
+	<SubTexture name="Rup0004" x="0" y="5120" width="1920" height="1280"/>
+	<SubTexture name="Rup0005" x="0" y="5120" width="1920" height="1280"/>
+</TextureAtlas>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="R_title2.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rbiaoti0000" x="5" y="5" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0001" x="1108" y="5" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0002" x="2211" y="5" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0003" x="3314" y="5" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0004" x="4417" y="5" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0005" x="5520" y="5" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0006" x="6623" y="5" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0007" x="5" y="1158" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0008" x="1108" y="1158" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0009" x="2211" y="1158" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0010" x="3314" y="1158" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0011" x="4417" y="1158" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0012" x="5520" y="1158" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0013" x="6623" y="1158" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0014" x="5" y="2311" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0015" x="1108" y="2311" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0016" x="2211" y="2311" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0017" x="3314" y="2311" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0018" x="4417" y="2311" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0019" x="5520" y="2311" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0020" x="6623" y="2311" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0021" x="5" y="3464" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0022" x="1108" y="3464" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0023" x="2211" y="3464" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0024" x="3314" y="3464" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0025" x="4417" y="3464" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0026" x="5520" y="3464" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0027" x="6623" y="3464" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0028" x="5" y="4617" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0029" x="1108" y="4617" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0030" x="2211" y="4617" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0031" x="3314" y="4617" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0032" x="4417" y="4617" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0033" x="5520" y="4617" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0034" x="6623" y="4617" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0035" x="5" y="5770" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0036" x="1108" y="5770" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0037" x="2211" y="5770" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0038" x="3314" y="5770" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0039" x="4417" y="5770" width="1100" height="1150"/>
+	<SubTexture name="Rbiaoti0040" x="5520" y="5770" width="1100" height="1150"/>
+</TextureAtlas>

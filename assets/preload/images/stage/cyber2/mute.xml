@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mute.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jingyin0000" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="jingyin0001" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="jingyin0002" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="jingyin0003" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="jingyin0004" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="jingyin0005" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="jingyin0006" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="jingyin0007" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="jingyin0008" x="2560" y="1400" width="2560" height="1400"/>
+	<SubTexture name="jingyin0009" x="2560" y="1400" width="2560" height="1400"/>
+</TextureAtlas>

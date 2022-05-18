@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TV left.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TV left0000" x="10" y="10" width="902" height="930"/>
+	<SubTexture name="TV left0001" x="922" y="10" width="902" height="930"/>
+	<SubTexture name="TV left0002" x="922" y="10" width="902" height="930"/>
+	<SubTexture name="TV left0003" x="10" y="950" width="902" height="930"/>
+	<SubTexture name="TV left0004" x="10" y="950" width="902" height="930"/>
+	<SubTexture name="TV left0005" x="922" y="950" width="902" height="930"/>
+	<SubTexture name="TV left0006" x="922" y="950" width="902" height="930"/>
+	<SubTexture name="TV left0007" x="922" y="950" width="902" height="930"/>
+	<SubTexture name="TV left0008" x="922" y="950" width="902" height="930"/>
+	<SubTexture name="TV left0009" x="922" y="950" width="902" height="930"/>
+	<SubTexture name="TV left0010" x="922" y="950" width="902" height="930"/>
+	<SubTexture name="TV left0011" x="922" y="950" width="902" height="930"/>
+	<SubTexture name="TV left0012" x="922" y="950" width="902" height="930"/>
+	<SubTexture name="TV left0013" x="922" y="950" width="902" height="930"/>
+	<SubTexture name="TV left0014" x="922" y="950" width="902" height="930"/>
+	<SubTexture name="TV left0015" x="10" y="950" width="902" height="930"/>
+	<SubTexture name="TV left0016" x="10" y="950" width="902" height="930"/>
+	<SubTexture name="TV left0017" x="922" y="10" width="902" height="930"/>
+	<SubTexture name="TV left0018" x="922" y="10" width="902" height="930"/>
+	<SubTexture name="TV left0019" x="10" y="10" width="902" height="930"/>
+</TextureAtlas>

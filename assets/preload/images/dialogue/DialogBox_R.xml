@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DialogBox_R.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DialogBox_R0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="DialogBox_R0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="DialogBox_R0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="DialogBox_R0003" x="0" y="720" width="1280" height="720"/>
+</TextureAtlas>

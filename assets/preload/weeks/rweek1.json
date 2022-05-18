@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"Malfunction",
+			"r",
+			[
+				198,
+				54,
+				71
+			]
+		],
+		[
+			"Invade",
+			"r",
+			[
+				198,
+				54,
+				71
+			]
+		],
+		[
+			"R-Memory",
+			"r",
+			[
+				198,
+				54,
+				71
+			]
+		],
+		[
+			"WARNING",
+			"acesora",
+			[
+				134,
+				217,
+				255
+			]
+		],
+		[
+			"The-battle-of-robbery",
+			"acesora",
+			[
+				134,
+				217,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "rVirus1",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Virus",
+	"weekName": "VirusR Week 1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

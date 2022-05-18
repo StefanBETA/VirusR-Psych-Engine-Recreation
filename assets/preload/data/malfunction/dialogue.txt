@@ -1,0 +1,11 @@
+cg:1:
+gf:awkward&box:Oh darling, where are we again?
+bf:afraid:I'm not sure either, this place looks hella weird. Like some unknown dimension. 
+gf:awkward:I think we got sucked in here by a TV but... 
+r:angry:Who are you?!
+bf:surprised:Who's talking!?
+cg:2:
+bf:afraid&box:Hey! Careful there! Just who the hell are you!!!
+r:angry:Are you sent by the system to capture me? Even disguising as someone else trying to fool me...
+gf:awkward:Eh...Miss?
+r:angry:I said I won't be bothering you anymore yet you still come to give me trouble... I suppose a battle is inevitable.
